@@ -1,0 +1,6 @@
+filename,detected_key,ground_truth,correct,confidence
+daft_punk_one_more_time.mp3,G major,A minor,False,0.902
+drake_gods_plan.mp3,C major,Bb major,False,0.847
+ed_sheeran_shape_of_you.mp3,F# minor,C# minor,False,0.924
+the_killers_mr_brightside.mp3,C# major,D major,False,0.969
+deadmau5_strobe.mp3,Ab minor,Db major,False,0.856

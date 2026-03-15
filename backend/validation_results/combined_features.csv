@@ -1,0 +1,6 @@
+filename,genre,librosa_raw,bpm,madmom_raw,madmom_corrected,ground_truth,error_librosa,error_madmom,num_beats,key,loudness,energy
+daft_punk_one_more_time.mp3,House,123.05,123.05,122.45,122.45,123,0.05,0.55,648,G major,-16.15,
+deadmau5_strobe.mp3,Electronic,129.2,129.2,127.66,127.66,128,1.2,0.34,692,Ab minor,-13.2,
+drake_gods_plan.mp3,Hip-Hop,152.0,152.0,77.92,155.84,77,75.0,78.84,456,C major,-15.4,
+ed_sheeran_shape_of_you.mp3,Pop,129.2,129.2,95.24,95.24,96,33.2,0.76,498,F# minor,-10.71,
+the_killers_mr_brightside.mp3,Rock,147.66,147.66,146.34,146.34,148,0.34,1.66,527,C# major,-9.71,
