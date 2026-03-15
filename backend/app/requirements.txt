@@ -1,0 +1,12 @@
+fastapi
+uvicorn[standard]
+pydub
+librosa
+numpy
+scipy
+soundfile
+python-multipart
+pydantic
+pytest
+pyrubberband
+pyloudnorm
